@@ -1,0 +1,66 @@
+htnl{
+    box-sizing: border-box;
+}
+body{
+    width:100%;
+    height: 100%;
+}
+#bg{
+    margin-top: 5%;
+    width:40%;
+    height:70%;
+}
+.container{
+    width:80%;
+    height:100%;
+    margin: 0 auto; 
+    overflow: hidden;
+}
+h1{
+    text-align: center;
+}
+.heart {
+    display:inline-block;
+    position:relative;
+    height:100%;
+    left:-20px;
+    top:0px;
+}
+.heart img{
+    height:100%;
+    margin:0 auto;
+}
+i{
+    font-size: 2em;
+    color:red;
+}
+.vl {
+    border-left: 2px solid black;
+    height: 475px;
+}
+#heart{
+    position: relative;
+    left:-16px;
+    top:-10px;
+}
+.vl1{
+    
+    border-left: 2px solid black;
+    height: 23px; 
+}
+.heart1{
+    display:inline-block;
+    position:relative;
+    height:100%;
+    left:-20px;
+    top:-450px; 
+}
+#linediv,#heartdiv{
+    transition: all 5s ease;
+}
+
+button{
+width:20%;
+height:5%;
+    
+}
