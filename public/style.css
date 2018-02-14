@@ -33,6 +33,7 @@ h1{
 i{
     font-size: 2em;
     color:red;
+    z-index: -1;
 }
 .vl {
     border-left: 2px solid black;
@@ -54,6 +55,7 @@ i{
     height:100%;
     left:-20px;
     top:-450px; 
+    z-index: -10;
 }
 #linediv,#heartdiv{
     transition: all 5s ease;
@@ -63,4 +65,15 @@ button{
 width:20%;
 height:5%;
     
+}
+#water{
+    width:500px;
+    height: 500px;
+}
+.pond{
+    width:40%;
+    margin: 0 auto;
+}
+.pond img{
+    margin-top:-400px;
 }
