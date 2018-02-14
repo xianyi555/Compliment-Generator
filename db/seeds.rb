@@ -11,18 +11,6 @@
 
 Compliment.create([
   {
-    title:'To US Army', 
-    description:'We love our Army Warriors. We all are proud of all of you'
-  },
-  {
-    title:'To Doctorsy', 
-    description:'We love our doctors'
-  },
-  {
-    title:'To GA Students', 
-    description:'The studentsfrom GA are awesome!'
-  },
-  {
     title:'1', 
     description:'You are awesome'
   },
