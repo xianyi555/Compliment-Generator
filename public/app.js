@@ -1,5 +1,6 @@
 $(document).ready(function(){
 $('button').on('click',function(){
+     $('i').attr('class','fas fa-anchor');
   $('#heartdiv').attr('class','heart');   
     $('#linediv').attr('class','vl');
     setTimeout(function(){
