@@ -7,7 +7,7 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 
-# Compliment.destroy_all
+Compliment.destroy_all
 
 Compliment.create([
   {
