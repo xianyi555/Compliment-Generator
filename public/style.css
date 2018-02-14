@@ -33,7 +33,6 @@ h1{
 i{
     font-size: 2em;
     color:red;
-    z-index: -1;
 }
 .vl {
     border-left: 2px solid black;
@@ -55,16 +54,17 @@ i{
     height:100%;
     left:-20px;
     top:-450px; 
-    z-index: -10;
+    
 }
 #linediv,#heartdiv{
     transition: all 5s ease;
 }
 
-button{
+ button{
 width:20%;
 height:5%;
-    
+margin-left: 200px;
+margin-top: -100px;
 }
 #water{
     width:500px;
@@ -76,4 +76,28 @@ height:5%;
 }
 .pond img{
     margin-top:-400px;
+}
+.modal{
+    font-size: 2.5em;
+    color: white;
+    display: none;
+    position:fixed;
+    z-index: 20;
+    left:0;
+    top:0;
+    width:100vw;
+    height:100vh;
+    background-color: rgba(0,0,0,0.4);
+    text-align: center;
+        
+}
+.modal-content{
+    margin:10% auto;
+    width:40%;
+    height:50%;
+    padding:1.2em;
+    text-align: center;
+    background-image: url('heartbg.png');
+    background-size: 100% 100%;
+    background-position: center;
 }
