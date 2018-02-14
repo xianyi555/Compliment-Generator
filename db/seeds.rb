@@ -11,18 +11,6 @@
 
 Compliment.create([
   {
-    title:'To US Army', 
-    description:'We love our Army Warriors. We all are proud of all of you'
-  },
-  {
-    title:'To Doctorsy', 
-    description:'We love our doctors'
-  },
-  {
-    title:'To GA Students', 
-    description:'The studentsfrom GA are awesome!'
-  },
-  {
     title:'1', 
     description:'You are awesome'
   },
@@ -70,53 +58,80 @@ Compliment.create([
     title:'12', 
     description:'You are my connection to the sun'
   },
+  {
+    title:'13', 
+    description:'Guess what I am wearing? The smile that you gave me today'
+  },
+  {
+    title:'14', 
+    description:'Somebody call the cops, because it is got to be illegal to look that good!'
+  },  
+  {
+    title:'15', 
+    description:'Life without you is like a broken pencil... pointless'
+  },  
+  {
+    title:'16', 
+    description:'Are you French because Eiffel for you'
+  },  
+  {
+    title:'17', 
+    description:'I was blinded by your beauty, now let me go to the eye doctor'
+  },  
+  {
+    title:'18', 
+    description:'I must be in a museum, because you truly are a work of art'
+  },  
+  {
+    title:'19', 
+    description:'I must be a snowflake, because I have fallen for you'
+  },  
+  {
+    title:'20', 
+    description:'Thank god I am wearing gloves because you are too hot to handle'
+  },  
+  {
+    title:'21', 
+    description:'Was your father a thief? ‘Cause someone stole the stars from the sky and put them in your eyes.'
+  },  
+  {
+    title:'22', 
+    description:'Are you a parking ticket? Cause you’ve got fine written all over you'
+  },  
+  {
+    title:'23', 
+    description:'Aside from being sexy, what do you do for a living?'
+  },  
+  {
+    title:'24', 
+    description:'Was your dad a boxer? Because damn, you’re a knockout'
+  },  
+  {
+    title:'25', 
+    description:'Are you a magician? Because whenever I look at you, everyone else disappears'
+  },  
+  {
+    title:'26', 
+    description:'So last night, I was reading a book about numbers and I realize that I do not have yours'
+  },  
+  {
+    title:'27', 
+    description:'If a fat man puts you in a bag at night, don not worry I told Santa I wanted you for Christmas.'
+  },
+  {
+    title:'28', 
+    description:'Hi, how was heaven when you left it?'
+  },
+  {
+    title:'29', 
+    description:'You look good today! All that working out is working out'
+  },
+  {
+    title:'30', 
+    description:'If a fat man puts you in a bag at night, don not worry I told Santa I wanted you for Christmas.'
+  }
 
 ])
 
-# list of compliments
-# - 
-# - 
-# - 
-# - 
-# - 
-# - 
-# - 
-# -  
-# - 
-# - 
-# - 
-# -  
-# - So last night, I was reading a book about numbers and I realize that I do not have yours
-# - Guess what I am wearing? The smile that you gave me today
-# - Somebody call the cops, because it’s got to be illegal to look that good!
-# - My love for you is like diarrhea, I just cannot hold it in
-
-
-
-
-# - Life without you is like a broken pencil... pointless.
-# - I was blinded by your beauty, now let me go to the eye doctor
-# - Thank god I'm wearing gloves because you are too hot to handle.
-# - If I were a transplant surgeon, I’d give you my heart.
-# - If I could rear
-# range the alphabet I would put U and I together.
-# - If a fat man puts you in a bag at night, don't worry I told Santa I wanted you for Christmas.
-# - I must be in a museum, because you truly are a work of art.
-# - Are you French because Eiffel for you.
-# - I must be a snowflake, because I've fallen for you.
-# - Are you a magician? Because whenever I look at you, everyone else disappears!
-# - Are you a parking ticket? Cause you’ve got fine written all over you.
-# - Was your dad a boxer? Because damn, you’re a knockout!
-# - Aside from being sexy, what do you do for a living?
-# - Did the sun come out or did you just smile at me?
-# - Was your father a thief? ‘Cause someone stole the stars from the sky and put them in your eyes.
-# - Do you have a pencil? Cause I want to erase your past and write our future.
-# - Is your name Google? Because you have everything I’ve been searching for.
-# - Didn’t I see you on the cover of Vogue?
-# - My buddies bet me that I wouldn’t be able to start a conversation with the hottest person in the bar. Wanna buy some drinks with their money?
-# - Do you believe in love at first sight or should I pass by again?
-# - Hi, how was heaven when you left it?
-# - You look good today! All that working out is working out
-# - Was that an earthquake or did you just rock my world!!!
 
 
